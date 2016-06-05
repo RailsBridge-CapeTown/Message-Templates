@@ -5,4 +5,4 @@ We've switched your RSVP for the workshop to No because we didn't hear from you 
 
 Regards,
 
-Steve
+(Steve &) The RailsBridge Cape Town team
