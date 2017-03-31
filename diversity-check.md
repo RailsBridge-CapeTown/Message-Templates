@@ -7,4 +7,4 @@ Thanks!
 
 Regards,
 
-(Steve &) The RailsBridge Cape Town team
+({{your name}} &) The RailsBridge Cape Town team
